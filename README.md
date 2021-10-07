@@ -1,10 +1,10 @@
 
 [![Header](https://shapka-youtube.ru/wp-content/uploads/2018/10/beztexta-category.jpg)](https://github.com/ainzoalgown?tab=repositories)  
 
-## Hello! I am a beginner JavaScript developer.
+## I'm a junior website developer.
 
 ### Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript-090909&logoColor=24CDE7)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript-090909&logoColor=#24CDE7)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React-090909&logoColor=24CDE7)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux-090909&logoColor=24CDE7)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=NodeJS-090909&logoColor=24CDE7)
