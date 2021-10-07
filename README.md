@@ -1,4 +1,4 @@
-Магомед Башир, [07.10.21 13:07]
+
 [![Header](https://i.pinimg.com/originals/72/51/5c/72515ce4f5ed24003576e97081cc0ebc.jpg)](https://github.com/ainzoalgown?tab=repositories)  
 
 ## Hello! I am a beginner JavaScript developer.
