@@ -19,15 +19,13 @@
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 ![Webpack](https://img.shields.io/badge/Webpack-black?style=flat-square&logo=Webpack)
 ![Babel](https://img.shields.io/badge/Babel-black?style=flat-square&logo=Babel)
-![Trello](https://img.shields.io/badge/Trello-black?style=flat-square&logo=Trello)
 ![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=Figma)
 ![Prettier](https://img.shields.io/badge/Prettier-black?style=flat-square&logo=Prettier)
 ![EsLint](https://img.shields.io/badge/EsLint-black?style=flat-square&logo=EsLint)
-![heroku](https://img.shields.io/badge/heroku-black?style=flat-square&logo=heroku)
 
 
 
 ### You can find me on these links
 
-[![gmail.com](https://img.shields.io/badge/malsagov.sa@inbox.ru-red?style=social&logo=gmail)](#)
+[![mail.ru](https://img.shields.io/badge/magomedemin.islamov@mail.ru-red?style=social&logo=mail.ru)](malsagov.sa@inbox.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](@IamAinzoalGown)
