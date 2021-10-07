@@ -3,7 +3,7 @@
 
 ## I'm a junior website developer.
 
-### Languages and Tools
+### Already Learned:
 ![JS](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javaScript)
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux)
@@ -27,7 +27,7 @@
 
 
 
-### Follow me
+### You can find me on these links
 
 [![gmail.com](https://img.shields.io/badge/malsagov.sa@inbox.ru-red?style=social&logo=gmail)](#)
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](@IamAinzoalGown)
