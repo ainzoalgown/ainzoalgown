@@ -23,7 +23,7 @@
 ![Prettier](https://img.shields.io/badge/Prettier-black?style=flat-square&logo=Prettier)
 ![EsLint](https://img.shields.io/badge/EsLint-black?style=flat-square&logo=EsLint)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerim-in&theme=outrun&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ainzoalgown&theme=outrun&show_icons=true)
 
 ### You can find me on these links
 
