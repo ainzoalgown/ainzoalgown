@@ -1,5 +1,5 @@
 
-[![Header](https://shapka-youtube.ru/wp-content/uploads/2018/10/beztexta-category.jpg)](https://github.com/ainzoalgown?tab=repositories)  
+[![Header](https://winzoro.net/uploads/posts/2021-03/1616845388_preview.jpg)](https://github.com/ainzoalgown?tab=repositories)  
 
 ## I'm a junior website developer.
 
