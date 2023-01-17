@@ -1,7 +1,7 @@
 
 [![Header](https://i.pinimg.com/originals/72/51/5c/72515ce4f5ed24003576e97081cc0ebc.jpg)](https://github.com/ainzoalgown?tab=repositories)  
 
-## I'm a junior website developer.
+## I'm a middle website developer.
 
 ### Already Learned:
 ![JS](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javaScript)
