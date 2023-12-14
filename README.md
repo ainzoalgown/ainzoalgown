@@ -28,4 +28,4 @@
 ### You can find me on these links
 
 [![mail.ru](https://img.shields.io/badge/malsagov.sa@inbox.ru-red?style=social&logo=mail.ru)](malsagov.sa@inbox.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](@DeadEndsama)
+[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](@wat_so)
